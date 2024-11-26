@@ -12,10 +12,21 @@
 
 [Словарь терминов](Словарь%20терминов.md)
 
+## Курсы
+
+### Введение в статистику (база)
+
+[Основы статистики (Stepik)](https://stepik.org/course/76/syllabus)
+
+[Introduction to Statistics in Python (DataCamp)](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-python)
+
+[Statistics and data literacy for non-statisticians (Udemy)](https://www.udemy.com/course/statistics-literacy-for-non-statisticians/)
+
 ## Статистика в экономике
 
+[CFA - Статистические концепции и рыночная доходность](https://fin-accounting.ru/cfa/l1/quantitative/cfa-statistical-concepts-and-market-returns)
 [CFA - Среднее арифметическое и меры центральной тенденции](https://fin-accounting.ru/cfa/l1/quantitative/cfa-measures-of-central-tendency-arithmetic-mean)
-[CFA - Размах, среднее абсолютное отклонение и меры дисперсии.](https://fin-accounting.ru/cfa/l1/quantitative/cfa-range-mean-absolute-deviation-measures-of-dispersion)
+[CFA - Размах, среднее абсолютное отклонение и меры дисперсии](https://fin-accounting.ru/cfa/l1/quantitative/cfa-range-mean-absolute-deviation-measures-of-dispersion)
 
 ## Нерешенные вопросы
 
