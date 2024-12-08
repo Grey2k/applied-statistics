@@ -303,6 +303,10 @@
 
 [Основы статистики (Stepik)](https://stepik.org/course/76/syllabus)
 
+[Статистика для начинающих (YouTube)](https://www.youtube.com/watch?v=YNgBoo5hRAU&list=PL9tOmloyeblZcLwMvik_kqwV5PEYVi4_k)
+
+[The Beginner's Guide to Statistical Analysis](https://www.scribbr.com/category/statistics/)
+
 [Introduction to Statistics in Python (DataCamp)](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-python)
 
 [Statistics and data literacy for non-statisticians (Udemy)](https://www.udemy.com/course/statistics-literacy-for-non-statisticians/)
