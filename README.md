@@ -11,6 +11,12 @@ Applied Statistics Theory and Practice
 
 ## Практика Python
 
+```bash
+pyenv shell anaconda3-2023.07-2
+conda create -n applied-statistics python=3.11 
+pip install -r requirements.txt
+```
+
 [Python examples](statistics-notes/python)
 
 ## Датасеты

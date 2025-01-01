@@ -15,6 +15,7 @@
               "state": {
                 "file": "index.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
