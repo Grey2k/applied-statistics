@@ -348,6 +348,12 @@
 
 # Дополнительно
 
+## Интересные лекции
+
+[Самая лучшая статистика TED](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)
+
+Мифы про развивающийся мир и ошибки выбора средства измерения центральной тенденции
+
 ## Статистика в экономике
 
 [CFA - Статистические концепции и рыночная доходность](https://fin-accounting.ru/cfa/l1/quantitative/cfa-statistical-concepts-and-market-returns)
